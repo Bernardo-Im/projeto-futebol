@@ -1,6 +1,6 @@
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 50%;
 }
 
 th,
@@ -54,10 +54,17 @@ th {
 .table-campeonato{
 width: 50%;
 
-}
+} 
 
 
 img{
   height: 19px;
+
+}
+
+.flex{
+  display: flex; 
+  gap: 20px;
+
 
 }
